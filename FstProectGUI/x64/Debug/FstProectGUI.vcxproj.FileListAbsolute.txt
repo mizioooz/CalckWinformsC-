@@ -1,0 +1,3 @@
+C:\Users\#KIGL#\Desktop\FstProectGUI\FstProectGUI\x64\Debug\FstProectGUI.vcxproj.AssemblyReference.cache
+C:\Users\#KIGL#\Desktop\FstProectGUI\FstProectGUI\x64\Debug\FstProectGUI.MyForm.resources
+C:\Users\#KIGL#\Desktop\FstProectGUI\FstProectGUI\x64\Debug\FstProectGUI.vcxproj.GenerateResource.cache
